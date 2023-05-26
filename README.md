@@ -1,8 +1,5 @@
-### Testing
-## test
-# test
-![GSicon](https://github.com/su-Kaizen/Su-Kaizen/assets/130379639/9303e153-ddac-41d3-983b-49f7ee168638)
-
+![KAIZEN](https://github.com/su-Kaizen/Su-Kaizen/assets/130379639/2d2964b8-ea1d-425c-bc8b-04af2dffb2df)
+Hello there! I'm a guy who loves computers and 
 
 <!--
 **su-Kaizen/Su-Kaizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +11,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ...![Uploading KAIZEN.png…]()
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
