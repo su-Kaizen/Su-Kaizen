@@ -1,6 +1,8 @@
 ### Testing
 ## test
 # test
+![GSicon](https://github.com/su-Kaizen/Su-Kaizen/assets/130379639/9303e153-ddac-41d3-983b-49f7ee168638)
+
 
 <!--
 **su-Kaizen/Su-Kaizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
