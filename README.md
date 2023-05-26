@@ -1,9 +1,9 @@
 ![KAIZEN](https://github.com/su-Kaizen/Su-Kaizen/assets/130379639/2d2964b8-ea1d-425c-bc8b-04af2dffb2df)
-Computers and videogames lover.
+Computers and videogames lover👾
 
-- I'm currently learning:
--   Python
--   Cibersecurity
+I'm currently learning:
+- 🐍 Python
+- 🔒 Cibersecurity
 
 
 Coming soon my first proyect...
