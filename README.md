@@ -1,5 +1,12 @@
 ![KAIZEN](https://github.com/su-Kaizen/Su-Kaizen/assets/130379639/2d2964b8-ea1d-425c-bc8b-04af2dffb2df)
-Hello there! I'm a guy who loves computers and 
+Computers and videogames lover.
+
+- I'm currently learning:
+-   Python
+-   Cibersecurity
+
+
+Coming soon my first proyect...
 
 <!--
 **su-Kaizen/Su-Kaizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
