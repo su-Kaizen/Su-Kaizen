@@ -3,7 +3,7 @@ Computers and videogames lover👾
 
 I'm currently learning:
 - 🐍 Python
-- 🔒 Cibersecurity
+- 🔒 Cybersecurity
 
 
 Coming soon my first proyect...
