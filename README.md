@@ -7,7 +7,7 @@ I'm currently learning:
 - 📸 Photo manipulation
 
 
-Coming soon my first proyect...
+
 
 <!--
 **su-Kaizen/Su-Kaizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
