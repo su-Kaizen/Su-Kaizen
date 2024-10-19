@@ -3,6 +3,7 @@ Computers and videogames lover👾
 
 I'm currently learning:
 - 🐍 Python
+- ☕ Java
 - 🔒 Cybersecurity
 - 📸 Photo manipulation
 
