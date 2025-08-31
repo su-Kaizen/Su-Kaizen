@@ -5,6 +5,7 @@ I'm currently learning:
 - ☕ Java
 - 🗄️ SQL
 - 🐍 Python
+- 📱 Kotlin
 - 🔒 Cybersecurity
 - 📸 Photo manipulation
 
