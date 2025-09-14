@@ -3,9 +3,9 @@ Computers and videogames lover👾
 
 I'm currently learning:
 - ☕ Java
-- 🗄️ SQL
 - 🐍 Python
 - 📱 Kotlin
+- 🗄️ SQL
 - 🔒 Cybersecurity
 - 📸 Photo manipulation
 
